@@ -2,5 +2,5 @@
   "name": "bureaubolster/hookpress",
   "type": "wordpress-plugin",
   "require": {},
-  "version": "1.14"
+  "version": "1.14.1"
 }

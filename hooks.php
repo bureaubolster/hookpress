@@ -21,6 +21,10 @@ $hookpress_actions = array(
 	'publish_page'=>array('POST'),
 	'publish_phone'=>array('POST'),
 	'publish_post'=>array('POST'),
+	'publish_partner_post'=>array('POST'),
+	'publish_event'=>array('POST'),
+	'publish_job'=>array('POST'),
+	'publish_recipe'=>array('POST'),
 	'save_post'=>array('POST', 'PARENT_POST'),
 	// TODO: make sure the original post stuff is working
 	'wp_insert_post'=>array('POST'),
